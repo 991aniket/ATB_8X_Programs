@@ -1,6 +1,6 @@
 package Practice_Prgramms;
 
-public class lab_03_data_type {
+public class Lab_03_data_type {
     public static void main(String[] args)
     {
         // Primitive Data Type
