@@ -1,6 +1,6 @@
-package January.ex_07012025;
+package Task;
 
-public class Lab_003_Calculator {
+public class Task_003_Calculator {
     public static void main(String[] args) {
         double a= 34;
         double b=10;

@@ -1,4 +1,4 @@
-package January.ex_07012025;
+package Practice_Prgramms;
 
 public class Lab001 {
 

@@ -1,6 +1,6 @@
-package January.ex_07012025;
+package Task;
 
-public class Lab_002_Table_Print {
+public class Task_002_Table_Print {
     public static void main(String[] args) {
         int num=10;
         //System.out.printf("Value of %d",num);
