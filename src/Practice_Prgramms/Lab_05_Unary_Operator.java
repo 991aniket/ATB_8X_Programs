@@ -8,7 +8,7 @@ public class Lab_05_Unary_Operator
         int b= +30;  // pre increment unary
         System.out.println(a);
         System.out.println(b);
-        int c = a+b;
-        System.out.println(c);
+       // int c = a+b;
+        //System.out.println(c);
     }
 }

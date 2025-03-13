@@ -1,8 +1,6 @@
 package Practice_Prgramms;
 
-import java.sql.SQLOutput;
-
-public class Lab_11_Logical_Operators_Example {
+public class Lab_11_Logical_Operators {
     public static void main(String[] args) {
         // || - OR
 
