@@ -13,5 +13,6 @@ public class Lab_63_Methods {
 
         sc.getName("3. No Return, With Parameters - These methods take input but don’t return anything—they just perform an action.");
 
+
     }
 }

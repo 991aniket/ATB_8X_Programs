@@ -4,7 +4,7 @@ public class Lab_60_Methods {
     public static void main(String[] args)
     {
         type_1();
-        type_2();
+//        type_2();
         String name=type_2();
         System.out.println(name);
         type_3("Aniket Pawar",25,"Male");
