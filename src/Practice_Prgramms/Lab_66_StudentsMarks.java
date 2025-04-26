@@ -1,6 +1,10 @@
 package Practice_Prgramms;
 
 public class Lab_66_StudentsMarks {
+    String name;
+    int marks;
+    
+
     void showWelcome() {
         System.out.println("Welcome Students");
     }
@@ -40,9 +44,7 @@ public class Lab_66_StudentsMarks {
         sc.displayMarks(studentMarks);
         char grade = sc.CalculateGrade(studentMarks);
         System.out.println(grade);
-
-
-    }
+}
 }
 
 
