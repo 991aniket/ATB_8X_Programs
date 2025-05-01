@@ -1,6 +1,6 @@
 package Practice_Prgramms.Multilevel_Inheritance;
 
-public class Lab_101_Mian {
+public class Lab_101_Main {
     public static void main(String[] args) {
         Lab_99_Car C = new Lab_99_Car();
         C.drive();

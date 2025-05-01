@@ -1,6 +1,6 @@
 package Practice_Prgramms.Multilevel_Inheritance;
 
-public class Lab_105_Mian
+public class Lab_105_Main
 {
     public static void main(String[] args)
     {
